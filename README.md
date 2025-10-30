@@ -1,2 +1,2 @@
 # calculator-simple-prjct
-Berisikan project kalkulator sederhana 
+project kalkulator ini dalam proses perbaikan untuk deploy (error) thank you! ❤
